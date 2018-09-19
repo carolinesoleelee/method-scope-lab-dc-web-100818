@@ -4,7 +4,7 @@ def rescue_princess_peach
 end
 
 def catch_phrase
-  puts phrase
+  puts "It's-a me, Mario!"
 end
 
 
