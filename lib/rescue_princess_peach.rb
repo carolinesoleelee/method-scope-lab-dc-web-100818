@@ -5,6 +5,8 @@ end
 
 def catch_phrase
   puts phrase
+end
+
 
 
 ## Comment the below back in to see method scope in action!
